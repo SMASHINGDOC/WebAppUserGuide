@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ww1_fh3_rf">
-    <title>Inserting the battery - Changed topic 03/07</title>
+    <title>Inserting the battery - Changed topic 02</title>
     <shortdesc/>
     <taskbody>
         <context>
@@ -16,7 +16,7 @@
             </step>
             <step id="lastStep">
                 <cmd>Put the back cover on. Make sure it is closed firmly.</cmd>
-                <stepresult>You have completed the task. Congrats!</stepresult>
+                <stepresult>You have changed the content again. Congrats!</stepresult>
             </step>
         </steps>
     </taskbody>
