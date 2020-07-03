@@ -3,6 +3,10 @@
 <topic id="introduction">
     <title>Introduction</title>
     <body>
-        <p></p>
+        <p><ph keyref="produit"/> is a wonderful 5G latest generation mobile phone made by <ph
+                keyref="company"/></p>
+        <p>
+            <note conref="Reusables/reusables.dita#reusables/sugar_note"/>
+        </p>
     </body>
 </topic>

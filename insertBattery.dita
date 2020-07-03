@@ -5,8 +5,8 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p>Before proceeding with the following steps, make sure that your mobile phone is
-                turned off.</p>
+            <p>Before proceeding with the following steps, make sure that your <ph keyref="produit"
+                />mobile phone is turned off.</p>
         </context>
         <steps>
             <step id="firstStep">

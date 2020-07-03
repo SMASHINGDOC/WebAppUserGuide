@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="define_password">
-    <title>Define password</title>
+<topic id="reusables">
+    <title>Reusables</title>
     <body>
         <p>
-            <note conref="Reusables/reusables.dita#reusables/sugar_note"/>
+            <note id="sugar_note" type="danger">Don't eat too much sugar or you'll get fat.</note>
         </p>
     </body>
 </topic>

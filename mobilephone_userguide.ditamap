@@ -2,4 +2,25 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>MobilePhone_UserGuide</title>
+    <keydef keys="produit">
+        <topicmeta>
+            <keywords>
+                <keyword>SUPERFONE</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>INVOKE</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <topicref href="introduction.dita"/>
+    <topicref href="updating_the_firmware.dita"/>
+    <topicref href="setting_parameters.dita">
+        <topicref href="define_password.dita"/>
+        <topicref href="change_background_screen.dita"/>
+    </topicref>
+    <topicref href="making_a_call.dita"/>
 </map>
