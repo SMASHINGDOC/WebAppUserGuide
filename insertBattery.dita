@@ -14,6 +14,9 @@
                         <image href="../image/insertBattery.jpg" id="image_j5s_bnl_wf"
                         placement="break"/></cmd>
             </step>
+            <step>
+                <cmd>This is a new step, man!</cmd>
+            </step>
             <step id="lastStep">
                 <cmd>Put the back cover on. Make sure it is closed firmly.</cmd>
             </step>
