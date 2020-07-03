@@ -6,9 +6,9 @@
         <p><ph keyref="produit"/> is a wonderful 5G latest generation mobile phone made by <ph
                 keyref="company"/></p>
         <p>This mobile looks stunning. See for yourself!</p>
-        <image href="Images/removingBattery.jpg" id="image_rtx_qwl_fmb"/>
+        <image href="../Images/removingBattery.jpg" id="image_rtx_qwl_fmb"/>
         <p>
-            <note conref="Reusables/reusables.dita#reusables/sugar_note"/>
+            <note conref="../Reusables/reusables.dita#reusables/sugar_note"/>
         </p>
     </body>
 </topic>

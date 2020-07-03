@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="22.1">
     <meta>
-        <filters directoryPatterns="" filePatterns="\QMobilePhoneUserGuide.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="\QMobilePhoneUserGuide.xpr\E" positiveFilePatterns="" showHiddenFiles="true"/>
         <options>
             <serialized version="22.1" xml:space="preserve">
                 <serializableOrderedMap>
@@ -867,6 +867,10 @@
         </options>
     </meta>
     <projectTree name="MobilePhoneUserGuide.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="mobilephone_userguide.ditamap"/>
+        </folder>
         <folder path="."/>
+        <file name="MobilePhoneUserGuide.xpr"/>
     </projectTree>
 </project>

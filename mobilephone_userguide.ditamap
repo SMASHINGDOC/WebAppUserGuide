@@ -16,11 +16,11 @@
             </keywords>
         </topicmeta>
     </keydef>
-    <topicref href="introduction.dita"/>
-    <topicref href="updating_the_firmware.dita"/>
-    <topicref href="setting_parameters.dita">
-        <topicref href="define_password.dita"/>
-        <topicref href="change_background_screen.dita"/>
+    <topicref href="Topics/introduction.dita"/>
+    <topicref href="Topics/updating_the_firmware.dita"/>
+    <topicref href="Topics/setting_parameters.dita">
+        <topicref href="Topics/define_password.dita"/>
+        <topicref href="Topics/change_background_screen.dita"/>
     </topicref>
-    <topicref href="making_a_call.dita"/>
+    <topicref href="Topics/making_a_call.dita"/>
 </map>
