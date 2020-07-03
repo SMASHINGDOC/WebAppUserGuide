@@ -3,6 +3,12 @@
 <topic id="making_a_call">
     <title>Making a call</title>
     <body>
-        <p></p>
+        <p>To make a call:</p>
+        <p>Press <image href="Images/MakeConference.jpg" id="image_v53_vwl_fmb"/>.</p>
+        <p>Click <image href="Images/menu1.jpg" id="image_mgp_wwl_fmb"/>.</p>
+        <p>Press <image href="Images/endCall.jpg" id="image_ud4_xwl_fmb"/>.</p>
+        <p>
+            <note conref="Reusables/reusables.dita#reusables/sugar_note"/>
+        </p>
     </body>
 </topic>
