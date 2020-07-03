@@ -16,7 +16,6 @@
             </step>
             <step id="lastStep">
                 <cmd>Put the back cover on. Make sure it is closed firmly.</cmd>
-                <stepresult>You have changed the content again. Congrats!</stepresult>
             </step>
         </steps>
     </taskbody>
