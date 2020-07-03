@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ww1_fh3_rf">
-    <title>AGAIN : New title for "Inserting the battery"</title>
+    <title>Latest title for "Inserting the battery"</title>
     <shortdesc/>
     <taskbody>
         <context>
-            <p>Before proceeding with these steps, make sure that your mobile phone is turned
-                off.</p>
+            <p>Before proceeding with the following steps, make sure that your mobile phone is
+                turned off.</p>
         </context>
         <steps>
             <step id="firstStep">
@@ -14,11 +14,11 @@
                         <image href="../image/insertBattery.jpg" id="image_j5s_bnl_wf"
                         placement="break"/></cmd>
             </step>
-            <step>
-                <cmd>This is a new step, man!</cmd>
-            </step>
             <step id="lastStep">
                 <cmd>Put the back cover on. Make sure it is closed firmly.</cmd>
+            </step>
+            <step>
+                <cmd>This is my last word!</cmd>
             </step>
         </steps>
     </taskbody>
