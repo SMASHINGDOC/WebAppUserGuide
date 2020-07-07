@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="change_background_screen">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_background_screen">
     <title>Change background screen</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <taskbody><context>
+        <p>To change the background screen:<ol id="ol_ydd_hym_gmb">
+                    <li>Use color pencils.</li>
+                    <li>Make a beautiful drawing.</li>
+                    <li>Define your drawing as your background.</li>
+                </ol></p>
+    </context></taskbody>
+</task>

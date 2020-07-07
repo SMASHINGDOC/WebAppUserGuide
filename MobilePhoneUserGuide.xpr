@@ -14,6 +14,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../../Desktop/TRANSFO%203/Util_UsrMan_Aide-globale_IDM.en.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive - Flowers 19 Webhelp</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../../../Desktop/TRANSFO%203/Util_UsrMan_Aide-globale_IDM.fr.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -637,13 +657,13 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
+                                            <String>C:/Users/jmvudinhba/Desktop/flowers-invoke/</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>ashes-tree.opt</String>
+                                            <String>Flowers-Invoke-19.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
-                                            <Boolean>false</Boolean>
+                                            <Boolean>true</Boolean>
                                         </field>
                                     </publishingTemplate>
                                 </field>

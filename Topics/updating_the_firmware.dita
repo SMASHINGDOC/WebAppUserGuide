@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="updating_the_firmware">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="updating_the_firmware">
     <title>Updating the firmware</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <taskbody><context>
+        <p>To update the firmware:</p>
+        <p>
+                <ol id="ol_obh_bym_gmb">
+                    <li>Connect your smartphone to your PC.</li>
+                    <li>Use your brain.</li>
+                    <li>Click <uicontrol>Connect</uicontrol>.</li>
+                </ol>
+            </p>
+    </context></taskbody>
+</task>

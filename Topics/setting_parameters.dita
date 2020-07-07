@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="setting_parameters">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setting_parameters">
     <title>Setting parameters</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <taskbody><context>
+        <p>You can set several parameters if you have the Admin rights.</p>
+    </context></taskbody>
+</task>
